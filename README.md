@@ -20,7 +20,7 @@ In order to meet the requirements set out in the user stories and carry out the 
 
 
 # PowerBI Dashboard
-![](https://github.com/nooshinmn/Sale-Analysis-PowerBI-SQL/blob/main/Sales Overview.jpg?raw=true)
+![](https://github.com/nooshinmn/Sale-Analysis-PowerBI-SQL/blob/fd31a8986cba5150902bd904ab5c51d5d908d0aa/Sales%20Overview.jpg?raw=true)
 
 
 # Authors
